@@ -1,0 +1,210 @@
+{
+    "status": 0,
+    "message": "ok",
+    "info": {
+        "copyright": {
+            "text": "@2025 Baidu - Data",
+            "imageUrl": "http://api.map.baidu.com/images/copyright_logo.png"
+        }
+    },
+    "type": 2,
+    "result": {
+        "routes": [
+            {
+                "distance": 682,
+                "duration": 581,
+                "steps": [
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 166,
+                        "distance": 50,
+                        "duration": 42,
+                        "instructions": "向正南方向出发,走50米,<b>右转</b>",
+                        "name": "",
+                        "path": "126.612286,45.711287;126.612396,45.710836",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 3,
+                        "stepOriginLocation": {
+                            "lng": 126.61228609058,
+                            "lat": 45.711286836164
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.61239602676,
+                            "lat": 45.710836050775
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    },
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 266,
+                        "distance": 102,
+                        "duration": 87,
+                        "instructions": "走100米,<b>右前方转</b>",
+                        "name": "",
+                        "path": "126.612396,45.710836;126.611664,45.710800;126.611494,45.710791;126.611204,45.710753;126.611093,45.710743",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 2,
+                        "stepOriginLocation": {
+                            "lng": 126.61239602676,
+                            "lat": 45.710836050775
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.61109336088,
+                            "lat": 45.710743221042
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    },
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 300,
+                        "distance": 43,
+                        "duration": 36,
+                        "instructions": "走40米,<b>右转</b>进入<b>西沟街</b>",
+                        "name": "",
+                        "path": "126.611093,45.710743;126.610903,45.710854;126.610653,45.710985",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 3,
+                        "stepOriginLocation": {
+                            "lng": 126.61109336088,
+                            "lat": 45.710743221042
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.61065278228,
+                            "lat": 45.710985330036
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    },
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 344,
+                        "distance": 167,
+                        "duration": 143,
+                        "instructions": "走170米,<b>左转</b>",
+                        "name": "西沟街",
+                        "path": "126.610653,45.710985;126.610643,45.711065;126.610573,45.711386;126.610403,45.712117;126.610323,45.712467",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 6,
+                        "stepOriginLocation": {
+                            "lng": 126.61065278228,
+                            "lat": 45.710985330036
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.61032331883,
+                            "lat": 45.712467117687
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    },
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 262,
+                        "distance": 192,
+                        "duration": 164,
+                        "instructions": "走190米,过<b>阶梯</b>,<b>左转</b>",
+                        "name": "",
+                        "path": "126.610323,45.712467;126.609552,45.712370;126.609302,45.712361;126.609102,45.712371;126.608932,45.712382;126.608561,45.712403;126.608521,45.712413;126.608011,45.712434;126.608011,45.712504;126.607971,45.712504",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 6,
+                        "stepOriginLocation": {
+                            "lng": 126.61032331883,
+                            "lat": 45.712467117687
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.60797088206,
+                            "lat": 45.712503929214
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    },
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 280,
+                        "distance": 11,
+                        "duration": 9,
+                        "instructions": "走10米,<b>右转</b>",
+                        "name": "",
+                        "path": "126.607971,45.712504;126.607911,45.712504;126.607891,45.712454",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 3,
+                        "stepOriginLocation": {
+                            "lng": 126.60797088206,
+                            "lat": 45.712503929214
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.60789079797,
+                            "lat": 45.712454047162
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    },
+                    {
+                        "leg_index": 0,
+                        "area": 0,
+                        "direction": 270,
+                        "distance": 117,
+                        "duration": 100,
+                        "instructions": "走120米,到达<b>终点</b>",
+                        "name": "",
+                        "path": "126.607891,45.712454;126.607771,45.712454;126.607571,45.712445;126.607461,45.712455;126.607190,45.712475;126.607020,45.712475;126.606690,45.712475;126.606410,45.712425",
+                        "pois": [],
+                        "type": 5,
+                        "turn_type_id": 0,
+                        "stepOriginLocation": {
+                            "lng": 126.60789079797,
+                            "lat": 45.712454047162
+                        },
+                        "stepDestinationLocation": {
+                            "lng": 126.60641033121,
+                            "lat": 45.712425266897
+                        },
+                        "stepOriginInstruction": "",
+                        "stepDestinationInstruction": ""
+                    }
+                ],
+                "originLocation": {
+                    "lng": 126.61229611945,
+                    "lat": 45.711296777887
+                },
+                "destinationLocation": {
+                    "lng": 126.60641033851,
+                    "lat": 45.712435269545
+                }
+            }
+        ],
+        "origin": {
+            "area_id": 0,
+            "cname": "",
+            "uid": "",
+            "wd": "",
+            "originPt": {
+                "lng": 126.61283787149,
+                "lat": 45.711358132719
+            }
+        },
+        "destination": {
+            "area_id": 0,
+            "cname": "",
+            "uid": "",
+            "wd": "",
+            "destinationPt": {
+                "lng": 126.60636108876,
+                "lat": 45.712623105938
+            }
+        }
+    }
+}

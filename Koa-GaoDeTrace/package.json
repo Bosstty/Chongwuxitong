@@ -1,0 +1,10 @@
+{
+    "dependencies": {
+        "@koa/router": "^13.1.0",
+        "koa": "^2.16.1",
+        "mongodb": "^6.15.0"
+    },
+    "devDependencies": {
+        "@types/node": "^22.14.1"
+    }
+}
